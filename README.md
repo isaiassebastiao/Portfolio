@@ -1,2 +1,2 @@
-# Portfolio
- Versão alpha do meu porfolio
+# Portfólio
+ Versão alpha do meu porfólio.
