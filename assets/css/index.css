@@ -1,0 +1,9 @@
+@import url('./components/footer.css');
+@import url('./components/header.css');
+@import url('./global/main.css');
+@import url('./pages/about.css');
+@import url('./pages/home.css');
+@import url('./pages/projects.css');
+@import url('./utils/animations.css');
+@import url('./utils/media_queries.css');
+@import url('./utils/variabels.css');

@@ -1,0 +1,32 @@
+header{
+    border: var(--border);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px 20px;
+    flex-wrap: wrap;
+}
+
+header ul{display: flex;}
+
+ul{
+    list-style: none;
+    gap: 30px;
+}
+
+header ul a, footer ul a{
+    font-weight: 600;
+    color: var(--color-4);
+    transition: .3s ease;
+}
+
+header ul a:hover, footer ul a:hover{
+    color: var(--color-3);
+}
+
+.active{
+    color: var(--color-3);
+}
+
+
