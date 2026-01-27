@@ -1,6 +1,5 @@
 footer{
     border-top: var(--border);
-    height: 60px;
     display: flex;
     align-items: center;
     margin-top: 30px;

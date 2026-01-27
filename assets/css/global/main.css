@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+*::selection{
+  color: var(--color-1);
+  background-color: var(--color-3);
+}
+
 html, body{
     height: 100%;
     scrollbar-width: thin;

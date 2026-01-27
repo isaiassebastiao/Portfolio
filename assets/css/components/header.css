@@ -1,10 +1,9 @@
 header{
     border: var(--border);
-    height: 60px;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 0px 20px;
+    padding: 20px;
     flex-wrap: wrap;
 }
 
